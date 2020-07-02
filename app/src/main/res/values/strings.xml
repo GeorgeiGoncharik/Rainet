@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rainet</string>
+    <string name="water_it">Water it!</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="watering_period">Watering period</string>
+    <string name="your_plants">Your plants</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">next</string>
+    <string name="button_cancel">cancel</string>
+    <string name="password_short_error">at least 8 characters required</string>
+
+</resources>
